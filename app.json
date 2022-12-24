@@ -3,6 +3,11 @@
     "name": "calculadora_de_macros_mobile",
     "slug": "calculadora_de_macros_mobile",
     "version": "1.0.0",
+    "icon": "./src/images/icon.png",
+    "splash": {
+      "image": "./src/images/splash.png",
+      "resizeMode": "cover"
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
